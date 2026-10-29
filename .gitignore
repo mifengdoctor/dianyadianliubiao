@@ -1,0 +1,24 @@
+# Keil MDK build outputs
+Objects/
+Listings/
+DebugConfig/
+MDK/Objects/
+MDK/Listings/
+*.o
+*.d
+*.crf
+*.axf
+*.hex
+*.lnp
+*.dep
+*.build_log.htm
+*.bak
+*.Bak
+*.log
+JLinkLog.txt
+
+# Keil user-specific files
+*.uvguix.*
+
+# Nested clone directory
+/dianyadianliubiao/
